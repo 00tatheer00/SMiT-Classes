@@ -1,3 +1,24 @@
+// var x = prompt("Where did pope live?")
+
+// if (x === "Vatican") {
+//     alert("Correct!");
+// }
+// else if(x === "Peshawar"){
+//     alert("Correct answer");
+// }
+// else{
+//     alert("Wrong answer");
+// }
+
+
+
+
+
+
+
+
+
+
 // // GRADE CALCULATOR
 
 // let marks = +prompt("Enter your marks (0-100):");
@@ -43,7 +64,7 @@
 // let username = prompt("Enter your username: ");
 // let password = prompt("Enter your password: ");
 
-// if (username === "admin" || password === "secret") { // OR operator checks either condition
+// if (username === "admin" && password === "secret") { // OR operator checks either condition
 //     alert("Login successful!");
 // } else {
 //     alert("Invalid username or password.");
